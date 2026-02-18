@@ -8,7 +8,9 @@
 
 ## These
 
-KI-Systeme sind keine neutralen Werkzeuge – sie verstärken und verschieben bestehende Machtstrukturen. Ob KI im Interesse der Menschheit wirkt, hängt nicht primär von technischen Eigenschaften ab, sondern davon, wer über ihre Entwicklung, Ausrichtung und Nutzung entscheidet.
+KI-Systeme sind keine neutralen Werkzeuge – sie verstärken und verschieben bestehende Machtstrukturen. Ob KI im Interesse der Menschheit wirkt, hängt sowohl von technischen Eigenschaften als auch davon ab, wer über ihre Entwicklung, Ausrichtung und Nutzung entscheidet. Die entscheidende Frage ist dabei nicht nur *wer* entscheidet, sondern wie sich die Machtverteilung im gesamten gesellschaftlichen Entscheidungssystem verändert: konzentriert sie sich auf wenige, oder bleibt sie demokratisch verteilt?
+
+Die gegenwärtige Entwicklung zeigt einen klaren Trend zur Konzentration: Wenige, extrem kapitalkräftige Akteure treffen Entscheidungen, die globale Auswirkungen haben – ohne entsprechende demokratische Legitimation.
 
 ---
 
@@ -29,7 +31,11 @@ Gestalten impliziert kollektive Handlungsfähigkeit und strukturelle Einflussnah
 
 Die Kernspannung: KI-Systeme entstehen schnell, unter privatem Antrieb, mit hohem Kapitaleinsatz. Gesellschaftliche Entscheidungsprozesse – Demokratie, internationales Recht, wissenschaftliche Konsensfindung – sind langsamer und dezentraler. Diese Asymmetrie ist kein Zufall, sondern systemisch.
 
-Hinzu kommt: Wer über KI entscheidet, gewinnt Einfluss darauf, wie KI die Welt verändert – und damit Einfluss auf zukünftige Machtverteilungen. KI-Governance ist deshalb nicht zuerst eine technische Frage, sondern eine politische.
+Hinzu kommt: Wer über KI entscheidet, gewinnt Einfluss darauf, wie KI die Welt verändert – und damit Einfluss auf zukünftige Machtverteilungen. KI-Governance ist deshalb sowohl eine technische als auch eine politische Frage, wobei die politische Dimension strukturell unterschätzt wird.
+
+### Die Frage der Souveränität
+
+Eine tiefere Spannung betrifft den Analyserahmen selbst: Soll man Macht und Souveränität primär auf der Ebene *individueller Menschen* denken, oder erfordert eine systemische Betrachtung, sich davon zu lösen? Wenn KI-Systeme, Märkte und politische Institutionen als ko-evolvierende Systeme betrachtet werden, dann ist "individuelle Souveränität" möglicherweise eine zu enge Kategorie – relevant wäre dann eher die Frage, welche Systeme Entscheidungsgewalt akkumulieren und wie rückgekoppelt diese mit menschlichen Interessen sind.
 
 ---
 
@@ -48,6 +54,8 @@ Hinzu kommt: Wer über KI entscheidet, gewinnt Einfluss darauf, wie KI die Welt 
 - Wie geht man mit dem Dilemma um, dass offene Modelle Zugang demokratisieren, aber auch Missbrauch erleichtern?
 - Gibt es ein sinnvolles Konzept von "KI-Rechten" oder "KI-Interessen", das in der Frage berücksichtigt werden muss?
 - Was bedeutet "Interesse der Menschheit" in Bezug auf nicht-menschliche Lebewesen und zukünftige Generationen?
+- Muss man sich für eine systemische Analyse von der Kategorie der individuellen menschlichen Souveränität lösen – und was verliert man dabei?
+- Ab wann ist Machtkonzentration bei wenigen Akteuren ein qualitativer Kipppunkt, kein gradueller Unterschied mehr?
 
 ---
 

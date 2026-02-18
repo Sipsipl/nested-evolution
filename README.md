@@ -22,7 +22,7 @@ Insbesondere steht die Frage im Zentrum:
 
 > Wie können wir KI so entwickeln und organisieren, dass sie im nachhaltigen Interesse der Menschheit wirkt?
 
-Die aktuelle Entwicklung von KI wird als ambivalent betrachtet: Sie kann sowohl erheblichen Nutzen als auch erheblichen Schaden verursachen.
+Die aktuelle Entwicklung von KI wird als ambivalent betrachtet: Sie kann sowohl erheblichen Nutzen als auch erheblichen Schaden verursachen. Besonders besorgniserregend ist der Trend zur Konzentration von Macht und Entscheidungsgewalt bei wenigen, extrem kapitalkräftigen Akteuren – ohne demokratische Legitimation.
 
 ---
 
@@ -54,6 +54,7 @@ Perspektivisch:
 
 ## Arbeitsweise
 
+- Entwicklung eigener Positionen und Thesen – kein Überblick über bestehende Literatur, sondern eigenständige Argumentation
 - Strukturierung komplexer Themen in klar abgegrenzte Modelle
 - Verbindung von philosophischen, systemtheoretischen und gesellschaftlichen Perspektiven
 - Dokumentation in Markdown
@@ -61,7 +62,16 @@ Perspektivisch:
 
 ---
 
+## Struktur
+
+```
+konzepte/    # Abgegrenzte Modelle und Thesen zu einzelnen Begriffen
+essays/      # Längere Argumentationen und Texte
+glossar.md   # Projektspezifische Begriffsdefinitionen
+fragen.md    # Offene Leit- und Arbeitsfragen
+```
+
 ## Status
 
-Dieses Repository beginnt mit der Sammlung und Systematisierung von Ideen.  
+Dieses Repository beginnt mit der Sammlung und Systematisierung von Ideen.
 Struktur, Begriffsdefinitionen und konkrete Modelle werden schrittweise entwickelt.
